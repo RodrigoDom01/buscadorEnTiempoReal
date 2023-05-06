@@ -6,6 +6,9 @@ const productos = [
     {nombre: "Frutillas", valor: 500},
     {nombre: "Anana", valor: 500},
     {nombre: "Mandarina", valor: 500},
+    {nombre: "Manzanas", valor: 500},
+    {nombre: "Guindas", valor: 500},
+    {nombre: "Naranja", valor: 500},
 ]
 
 
